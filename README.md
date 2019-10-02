@@ -18,3 +18,6 @@ or... simply import the project in Android Studio
 
 1. Execute `./gradlew lint`
 2. The lint results are stored in app/build/reports/lint-results.html
+
+<img src="screenshots/game-ongoing.png" width="280" alt="Screenshot" />
+<img src="screenshots/game-over.png" width="280" alt="Screenshot" />
